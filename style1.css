@@ -1,0 +1,32 @@
+body {
+    background-color: #2d3436;
+    margin: 10%;
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 300px;
+}
+
+
+.img {
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.column {
+    flex: 1;
+  }
+
+  .details-container {
+    flex: 2;
+}
+
+.avatar-container {
+    flex-basis: 250px;
+}

@@ -1,0 +1,87 @@
+{
+    "food": {
+      "P-1": {
+        "productName": "Donuts",
+        "imgUri": "http://placehold.it/240x240&text=Donuts",
+        "price": 4.99,
+        "options": {
+          "O-1": {
+            "optionName": "taste",
+            "attributes": {
+              "A-1": "Chocolate",
+              "A-2": "Strawberry"
+            }
+          }
+        }
+      }
+    },
+    "clothing": {
+      "P-2": {
+        "productName": "T-Shirt",
+        "imgUri": "http://placehold.it/240x240&text=T-Shirt",
+        "price": 11.59,
+        "options": {
+          "O-1": {
+            "optionName": "size",
+            "attributes": {
+              "A-1": "S",
+              "A-2": "M",
+              "A-3": "L",
+            }
+          },
+          "O-2": {
+            "optionName": "color",
+            "attributes": {
+              "A-1": "Red",
+              "A-2": "Pink",
+              "A-3": "Green",
+            }
+          }
+        }
+      },
+      "P-3": {
+        "productName": "Socks",
+        "imgUri": "http://placehold.it/240x240&text=Socks",
+        "price": 7.59,
+        "options": {
+          "O-1": {
+            "optionName": "size",
+            "attributes": {
+              "A-1": "10",
+              "A-2": "11",
+              "A-3": "12",
+            }
+          },
+          "O-2": {
+            "optionName": "color",
+            "attributes": {
+              "A-1": "White",
+              "A-2": "Black",
+              "A-3": "Grey",
+            },
+        "options": {
+          "O-1": {
+            "optionName": "taste",
+            "attributes": {
+              "A-1": "Chocolate",
+              "A-2": "Strawberry"
+            }
+          }
+        }
+          }
+        }
+      }
+    },
+    "home": {
+      "P-4": {
+        "productName": "Cushion",
+        "imgUri": "http://placehold.it/240x240&text=Cushion",
+        "price": 14.99
+      }
+    }
+  }
+  
+  
+  
+  
+  
